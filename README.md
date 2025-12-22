@@ -1,73 +1,77 @@
-## Hi there 👋
-# Hi there, I'm Berna 👋
+<div align="center">
 
-### Value-driven Software Developer | Data & AI Enthusiast
+# Merhaba ben Berna 👋
 
-I build value-driven software, combining data, AI, and product thinking.
-My goal is to create sustainable, readable, and scalable solutions.
+### Yazılım Geliştirici | Veri & Yapay Zekâ Meraklısı
 
----
+Değer odaklı yazılım geliştiriyorum; veri, yapay zekâ ve ürün düşüncesini birleştiriyorum.  
+Amacım sürdürülebilir, okunabilir ve ölçeklenebilir çözümler üretmek.
 
-### Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berna-tütüncü-5a0a01313)
+<br/>
 
----
+## 🌐 Benimle İletişime Geçin
 
-### Tech Stack
-**Core**
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-111111?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-111111?style=for-the-badge&logo=flutter&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
+<a href="https://instagram.com/berna_tutuncu" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/berna-t%C3%BCt%C3%BCnc%C3%BC-5a0a01313/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:tutuncubernna@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-**Tools**
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
+</div>
 
 ---
 
-### Education
-| Degree | Department | Institution | Year |
-|---|---|---|---|
-| Bachelor's | Information Systems & Technologies | Mehmet Akif Ersoy University | 2023 - Present |
-| Bachelor's | Management Information Systems (Open Education) | Anadolu University | 2022 - 2023 |
+<div align="center">
+
+## 💻 Temel Beceriler ve Diller
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-2F6DB3?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
 
 ---
 
-### What I care about
-- Clean, maintainable code
-- Practical AI/ML mindset
-- Strong fundamentals & continuous learning
-- Simple UX, real impact
+<div align="center">
+
+## 🎓 Eğitim
+**Mehmet Akif Ersoy Üniversitesi** — Bilişim Sistemleri ve Teknolojileri (Devam)  
+**Anadolu Üniversitesi** — Yönetim Bilişim Sistemleri (Uzaktan Eğitim)
+
+</div>
 
 ---
 
-### GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Bernatntc&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bernatntc)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernatntc&layout=compact)
+<div align="center">
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bernatntc)
+## 📊 GitHub İstatistikleri
+<img src="https://github-readme-stats.vercel.app/api?username=Bernatntc&show_icons=true&rank_icon=github" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bernatntc" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernatntc&layout=compact" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal)
-
-<!--
-**Bernatntc/Bernatntc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
