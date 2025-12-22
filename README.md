@@ -1,15 +1,23 @@
 <div align="center">
 
-# Merhaba ben Berna 👋
+# Hi, I'm Berna 👋
 
-### Yazılım Geliştirici | Veri & Yapay Zekâ Meraklısı
+### Software Developer | Data & AI Enthusiast
 
-Değer odaklı yazılım geliştiriyorum; veri, yapay zekâ ve ürün düşüncesini birleştiriyorum.  
-Amacım sürdürülebilir, okunabilir ve ölçeklenebilir çözümler üretmek.
+I build value-driven software, combining data, AI, and product thinking.  
+My goal is to create sustainable, readable, and scalable solutions.
 
 <br/>
 
-## 🌐 Benimle İletişime Geçin
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=560&lines=Clean+Code+%E2%80%A2+Scalable+Solutions+%E2%80%A2+Real+Impact;Software+%26+Data+%E2%80%A2+AI+Mindset+%E2%80%A2+Continuous+Learning" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Connect with me
 
 <a href="https://instagram.com/berna_tutuncu" target="_blank">
   <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -27,7 +35,7 @@ Amacım sürdürülebilir, okunabilir ve ölçeklenebilir çözümler üretmek.
 
 <div align="center">
 
-## 💻 Temel Beceriler ve Diller
+## 💻 Core Skills & Tools
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -46,9 +54,7 @@ Amacım sürdürülebilir, okunabilir ve ölçeklenebilir çözümler üretmek.
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
@@ -57,9 +63,13 @@ Amacım sürdürülebilir, okunabilir ve ölçeklenebilir çözümler üretmek.
 
 <div align="center">
 
-## 🎓 Eğitim
-**Mehmet Akif Ersoy Üniversitesi** — Bilişim Sistemleri ve Teknolojileri (Devam)  
-**Anadolu Üniversitesi** — Yönetim Bilişim Sistemleri (Uzaktan Eğitim)
+## ⭐ Most Used (Manual)
+<!-- This stays visible even if GitHub has no language stats yet -->
+<img src="https://img.shields.io/badge/Python-FF4D8D?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-FF4D8D?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-FF4D8D?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-FF4D8D?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-FF4D8D?style=for-the-badge&logo=openjdk&logoColor=white" />
 
 </div>
 
@@ -67,11 +77,40 @@ Amacım sürdürülebilir, okunabilir ve ölçeklenebilir çözümler üretmek.
 
 <div align="center">
 
-## 📊 GitHub İstatistikleri
-<img src="https://github-readme-stats.vercel.app/api?username=Bernatntc&show_icons=true&rank_icon=github" />
+## 🎓 Education
+**Mehmet Akif Ersoy University** — Information Systems & Technologies (Ongoing)  
+**Anadolu University** — Management Information Systems (Distance Education)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=Bernatntc&theme=radical&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats (Pink Theme)
+<img src="https://github-readme-stats.vercel.app/api?username=Bernatntc&show_icons=true&rank_icon=github&theme=radical&hide_border=true" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bernatntc" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bernatntc&theme=radical&hide_border=true" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernatntc&layout=compact" />
+<!-- This will auto-fill once you have repos with code; until then it may show "No languages data" -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernatntc&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+## ✍️ Quote of the Day
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 </div>
