@@ -85,14 +85,7 @@ My goal is to create sustainable, readable, and scalable solutions.
 
 ---
 
-<div align="center">
 
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Bernatntc&theme=radical&no-frame=true&row=1&column=7" />
-
-</div>
-
----
 
 <div align="center">
 
