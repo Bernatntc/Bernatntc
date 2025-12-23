@@ -63,7 +63,7 @@ My goal is to create sustainable, readable, and scalable solutions.
 
 <div align="center">
 
-## ⭐ Most Used (Manual)
+## ⭐ Most Used 
 <!-- This stays visible even if GitHub has no language stats yet -->
 <img src="https://img.shields.io/badge/Python-FF4D8D?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-FF4D8D?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -89,13 +89,11 @@ My goal is to create sustainable, readable, and scalable solutions.
 
 <div align="center">
 
-## 📊 GitHub Stats (Pink Theme)
+## 📊 GitHub Stats 
 <img src="https://github-readme-stats.vercel.app/api?username=Bernatntc&show_icons=true&rank_icon=github&theme=radical&hide_border=true" />
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bernatntc&theme=radical&hide_border=true" />
 <br/>
-<!-- This will auto-fill once you have repos with code; until then it may show "No languages data" -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernatntc&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
