@@ -89,11 +89,12 @@ My goal is to create sustainable, readable, and scalable solutions.
 
 <div align="center">
 
-## 📊 GitHub Stats 
-<img src="https://github-readme-stats.vercel.app/api?username=Bernatntc&show_icons=true&rank_icon=github&theme=radical&hide_border=true" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bernatntc&theme=radical&hide_border=true" />
-<br/>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KULLANICI_ADIN&theme=github-dark-blue&hide_border=true" />
+</p>
+
 
 </div>
 
