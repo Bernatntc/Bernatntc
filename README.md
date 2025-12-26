@@ -87,26 +87,12 @@ My goal is to create sustainable, readable, and scalable solutions.
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Stable)
 
+<!-- Stable: served from your own repo file (no external service breaks) -->
 <img
-  height="170"
   referrerpolicy="no-referrer"
-  src="https://github-readme-stats.vercel.app/api?username=Bernatntc&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-/>
-
-<img
-  height="170"
-  referrerpolicy="no-referrer"
-  src="https://streak-stats.demolab.com/?user=Bernatntc&theme=github-dark-blue&hide_border=true"
-/>
-
-<br/>
-
-<img
-  height="170"
-  referrerpolicy="no-referrer"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernatntc&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+  src="https://raw.githubusercontent.com/Bernatntc/Metrics/main/github-metrics.svg"
 />
 
 </div>
