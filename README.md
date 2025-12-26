@@ -92,7 +92,7 @@ My goal is to create sustainable, readable, and scalable solutions.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bernatntc&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Bernatntc&theme=github-dark-blue&hide_border=true&v=2" />
 </p>
 
 
