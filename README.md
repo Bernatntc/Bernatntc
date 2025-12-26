@@ -86,15 +86,18 @@ My goal is to create sustainable, readable, and scalable solutions.
 ---
 
 
-
 <div align="center">
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bernatntc&theme=github-dark-blue&hide_border=true&v=2" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bernatntc&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=Bernatntc&theme=github-dark-blue&hide_border=true&cache_seconds=86400" />
 </p>
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernatntc&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" />
+</p>
 
 </div>
 
